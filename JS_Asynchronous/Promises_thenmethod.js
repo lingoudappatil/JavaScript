@@ -11,6 +11,6 @@ const getPromise = () =>
 };
 
 let promise = getPromise();
-promise.then(() => {
+promise.then(() =>{
     console.log("Promise Fulfilled");
 });

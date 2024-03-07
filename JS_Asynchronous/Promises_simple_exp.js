@@ -1,4 +1,4 @@
-//Promises -- It is for eventual completion of task.It is an Object in JS
+//Promises --> It is for eventual completion of task.It is an Object in JS
 
 
 let promise=new Promise((resolve,reject) =>

@@ -15,3 +15,4 @@ function getData(dataId,getNextData)
     }); 
 }
 getData(1);
+getData(2);
