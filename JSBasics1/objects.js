@@ -1,5 +1,5 @@
 const person = {
-    firstName: "John",
+    firstName: "Lingouda",
     lastName : "Doe",
     id       : 5566,
     fullName : function() {
