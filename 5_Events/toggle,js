@@ -1,0 +1,14 @@
+const node =document.querySelector("#node");
+let CurrMode="light";
+node.addEventListener("click",()=>{
+	if(CurrMode=="light")
+	{
+		CurrMode ="dark";
+		document.querySelector("body").style.backgroundColor="red";
+	}
+	else{
+		CurrMode= "light";
+		document.querySelector("body").style.backgroundColor="white";
+	}
+	console.log(CurrMode);
+});
