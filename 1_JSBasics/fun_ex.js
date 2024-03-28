@@ -3,7 +3,7 @@ const fun=()=>
     console.log("Lingouda");
 }
 fun();
-
+//Example on addition 
 const add=(a,b)=>
 {
 	return a+b;
@@ -23,7 +23,7 @@ console.log(res1);
 console.log(res2);
 console.log(res3);
 
-
+//example on for loopx
 const loop =() =>
 {
 	let a=10;
