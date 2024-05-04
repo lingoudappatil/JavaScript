@@ -1,4 +1,4 @@
-function FindElement(Arr,value)
+function FindElement(arr,value)
 {
     if(arr.length === 0)
         {
@@ -10,6 +10,12 @@ function FindElement(Arr,value)
                 {
                     return true;
                 }
-                else
+                else {
+                    console.log("False")
+
+                }
             }
 }
+
+var a = [1,2,5,2,6];
+console.log(FindElement(a,9));
