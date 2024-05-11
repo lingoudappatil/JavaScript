@@ -4,7 +4,6 @@ function SumArr(ar)
     for(var i=0;i<+ar.length;i++)
     {
         sum += ar[i];
-
     }
     return sum;
 }

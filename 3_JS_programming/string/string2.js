@@ -1,5 +1,4 @@
 //checking whether string is Palindrome or not
-
 function isPalindrome(str) 
 {
     const cleanStr = str.toLowerCase().replace(/[^a-z0-9]/g, '');
