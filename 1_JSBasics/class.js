@@ -22,7 +22,6 @@ class Rectangle
   }
   
   const square = new Rectangle(5, 5);
-  
   console.log(square.area); // 100
   console.log([...square.getSides()]);
   
