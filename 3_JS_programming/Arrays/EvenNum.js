@@ -7,5 +7,6 @@ for(var i=0;i<=ar.length;i++)
                 console.log("Even Numbers are below\n");
                 EvenAr.push(ar[i]);
     }
-}console.log("Array is" +EvenAr);
+}
+console.log("Array is" +EvenAr);
 return EvenAr;
