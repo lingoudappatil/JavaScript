@@ -1,5 +1,4 @@
 
-
 // Example using then() method in Promises
 const getPromise = () => 
 {
@@ -9,7 +8,6 @@ const getPromise = () =>
         resolve("Success");
     });
 };
-
 let promise = getPromise();
 promise.then(() =>{
     console.log("Promise Fulfilled");

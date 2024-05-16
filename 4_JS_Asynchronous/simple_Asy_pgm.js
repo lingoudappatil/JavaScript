@@ -5,8 +5,8 @@ function msg()
 }
 setTimeout(msg,3000);
 
-
 setTimeout(() => {
     console.log("This will  print after above function executed");
     
-}, 4000);
+}, 
+4000);

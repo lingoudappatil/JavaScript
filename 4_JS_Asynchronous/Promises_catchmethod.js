@@ -5,7 +5,6 @@ const getPromise = () => {
         reject("Error occurred");
     });
 };
-
 let promise = getPromise();
 promise.catch((err) => {
     console.log("Promise Rejected");
