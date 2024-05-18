@@ -9,7 +9,6 @@ function calculator(a,b,sum)
     sum(a,b);
 }
 calculator(2,3,sum);
-
 // callback in Async
 const hello = () =>
 {

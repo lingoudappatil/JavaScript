@@ -11,8 +11,10 @@ function getData(dataId,getNextData)
             {
                 getNextData();
             }
-        },5000);
+        },3000);
     }); 
 }
 getData(1);
 getData(2);
+getData(3);
+getData(4);
