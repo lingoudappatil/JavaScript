@@ -1,3 +1,4 @@
+
 const node =document.querySelector("#node");
 let CurrMode="light";
 node.addEventListener("click",()=>{
