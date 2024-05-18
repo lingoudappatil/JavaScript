@@ -1,3 +1,4 @@
+
 var ar= [2,4,5,9,7,1,0];
 var EvenAr =[];
 for(var i=0;i<=ar.length;i++)

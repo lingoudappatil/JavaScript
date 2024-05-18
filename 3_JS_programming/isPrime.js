@@ -1,3 +1,4 @@
+
 function isPrime(num) 
 { 
     if (num <= 1)
