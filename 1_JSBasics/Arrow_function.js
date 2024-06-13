@@ -1,4 +1,3 @@
-
 // Traditional anonymous function
 console.log((function(a) {
     return a + 1;
@@ -11,7 +10,6 @@ console.log((a => {
 })(10)); 
 
 console.log((a => a + 3)(10)); 
-
 console.log(((a) => a + 4)(10)); 
 
 // Single parameter doesn't need parentheses
