@@ -3,7 +3,6 @@ console.log((function(a) {
     return a + 1;
 })(10)); 
 
-
 // Arrow functions
 console.log((a => {
     return a + 2;
