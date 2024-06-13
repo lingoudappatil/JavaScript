@@ -17,6 +17,5 @@ const cal1=(a,b,sumcal) =>
 {
     return sumcal(a,b);
 }
-
 resu = cal1(2,5,sum1);
 console.log(resu);
