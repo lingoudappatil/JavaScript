@@ -6,7 +6,7 @@ function getData(dataId,getNextData)
         if(getNextData)
         {
             getNextData();
-        }
+        } 
     },2000);
 }
 getData(1,()=>{
