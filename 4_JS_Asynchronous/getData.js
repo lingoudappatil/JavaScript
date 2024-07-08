@@ -6,7 +6,7 @@ setTimeout(()=>{
     {
         getNextData();
     }
-},2000)
+},2000) 
 }
 getData(1,()=>{
     console.log("Getting data...2");
