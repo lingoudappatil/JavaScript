@@ -1,4 +1,4 @@
     let btn = document.querySelector("#btn");
-    btn.onclick = () =>{
+    btn.onclick = () =>{ 
         console.log("Button is clicked");
     };
