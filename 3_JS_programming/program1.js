@@ -3,7 +3,7 @@ class Dog {
       this._name = name;
       this._behavior = 0;
     }
-    get name() {
+    get name() { 
       return this._name;
     }
     get behavior() {
